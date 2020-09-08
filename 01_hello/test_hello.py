@@ -4,7 +4,7 @@
 import os
 from subprocess import getstatusoutput, getoutput
 
-prg = './hello.py'
+prg = '/home/kral2/github-learning/tiny_python_projects/01_hello/hello.py'
 
 
 # --------------------------------------------------
